@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultipleTest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.011">
+  <properties />
+  
+  
+            <testcase name="A" time="0.002" classname="com.sellabs.wdprogram.TestingProg2" />
+                <testcase name="B" time="0.003" classname="com.sellabs.wdprogram.TestingProg2" />
+                <testcase name="C" time="0.003" classname="com.sellabs.wdprogram.TestingProg2" />
+                <testcase name="D" time="0.003" classname="com.sellabs.wdprogram.TestingProg2" />
+      
+</testsuite>
