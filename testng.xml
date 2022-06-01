@@ -8,7 +8,6 @@
 <test name="MultipleTest">
     <classes>
       <class name="com.sellabs.wdprogram.TestingProg"/>
-      <class name="com.sellabs.wdprogram.TestingProg2"/>
-    </classes>
+      </classes>
   </test> 
 </suite> 
